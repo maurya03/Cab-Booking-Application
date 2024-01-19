@@ -1,6 +1,6 @@
 package com.example.cabbookingapplication.Model;
 
-public class Driver extends BaseModel {
+public class Driver {
     private String name;
     private String gender;
     private int age;
